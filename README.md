@@ -4,7 +4,7 @@
 
 # If you want to close the keylogger , in Desktop or anywhere , you press ( (Right-Alt) + y ).
 
-# Log file saved on same this program directory.
+# Log file saved on same directory with this program.
 
 # This program include Turkish keyboard, but  except of '*' character. If you fix the problem. Send me code
 
